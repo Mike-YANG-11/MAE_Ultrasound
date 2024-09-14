@@ -1,4 +1,4 @@
-# mae_ultrasound
+# MAE in Ultrasound
 - Experiments of applying Masked AutoEncoders (MAE) on ultrasound images for needle segmentation
 - See `r12945039_report.pdf` for more details 
 ***

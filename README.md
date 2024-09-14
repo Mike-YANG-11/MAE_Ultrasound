@@ -1,5 +1,6 @@
 # mae_ultrasound
 - Experiments of applying Masked AutoEncoders (MAE) on ultrasound images for needle segmentation
+- See `r12945039_report.pdf` for more details 
 ***
 - Modified from UNETR architecture
   ![image](https://github.com/user-attachments/assets/0f4e4081-2335-44ff-b493-9db6af814ae1)
